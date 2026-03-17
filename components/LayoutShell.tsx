@@ -47,7 +47,7 @@ export function LayoutShell({ children }: Props) {
               How it works
             </Link>
             <a
-              href="https://github.com/moroii69/rive"
+              href="https://github.com/ufraaan/rive"
               target="_blank"
               rel="noopener noreferrer"
               className="px-2 py-1 text-xs text-slate-400 hover:text-slate-200 transition"
